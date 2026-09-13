@@ -1,35 +1,18 @@
 <div align="center">
 
-# Balaraman
+# Hi There,I'm Balaraman👋🏻
 
 ### **AI Engineer · Software Engineer**
 
 *“I enjoy turning ideas into working products and learning through the process of building them.”*
 
-<br/>
-
-<a href="https://github.com/bala0525">
-  <img src="https://img.icons8.com/color-glass/48/github--v1.png" width="24" height="24" alt="GitHub" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/balaramans0510">
-  <img src="https://img.icons8.com/fluency/96/linkedin.png" width="24" height="24" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.instagram.com/balaraman.in">
-  <img src="https://img.icons8.com/plasticine/100/instagram-new--v2.png" width="24" height="24" alt="Instagram" />
-</a>
 
 </div>
-
----
 
 ### About
 
 I'm Balaraman, an MCA (Generative AI) graduate focused on **AI, backend engineering, and software development**.
-
 I enjoy turning ideas into working products and learning through the process of building them.
-
 Currently exploring **Generative AI, AI Agents, RAG, and scalable backend systems**.
 
 ---
